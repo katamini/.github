@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b07839ee-57c9-4474-853a-d6841f2bc148" width=300 />
 </a>
 <a href="https://katamini.club/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/88e48ff0-5d5c-41cc-80bb-21b95d9cfd4a" width=120 />
+  <img src="https://github.com/user-attachments/assets/1f445820-77b1-4d44-bfc2-5bd09400299a" width=140 />
 </a>
 
 <br>
@@ -23,3 +23,7 @@
 
 > [!IMPORTANT]  
 > This game is a work of parody. All rights reserved by their respective owners.
+
+<!--
+![output-onlinegiftools-ezgif com-effects](https://github.com/user-attachments/assets/1f445820-77b1-4d44-bfc2-5bd09400299a)
+-->
